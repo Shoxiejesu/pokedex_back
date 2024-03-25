@@ -31,7 +31,7 @@ public class PokemonController {
 	}
 
 	/**
-	 * @param name an optional filter on the name
+	 * @param name an optional filter on the name pr
 	 * @return all pokemons
 	 */
 	@GetMapping("/search")
