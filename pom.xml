@@ -110,7 +110,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>GitHub Shoxiejesu Apache Maven Packages</name>
-	     <url>https://github.com/Shoxiejesu/pokedex_back</url>
+	     <url>https://maven.pkg.github.com/Shoxiejesu/pokedex_back</url>
 	   </repository>
 	</distributionManagement>
 
