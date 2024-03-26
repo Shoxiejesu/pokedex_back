@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.3</version>
+		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fr.idformation</groupId>
@@ -109,7 +109,7 @@
 	<distributionManagement>
 	   <repository>
 	     <id>github</id>
-	     <name>GitHub Shoxiejesu Apache Maven Packages</name>
+	     <name>GitHub PioT Apache Maven Packages</name>
 	     <url>https://maven.pkg.github.com/Shoxiejesu/pokedex_back</url>
 	   </repository>
 	</distributionManagement>
