@@ -40,7 +40,7 @@ public class PokemonController {
 	}
 
 	/**
-	 * Find a pokemon from its id.
+	 * Find a pokemon from its id.g
 	 *
 	 * @param id the id of the pokemon
 	 * @return athe pokemon with the given id
